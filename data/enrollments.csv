@@ -1,0 +1,151 @@
+student_id,student_name,email,phone,department_id,department_name,course_id,course_title,credit_hours,instructor_id,instructor_name,semester,enroll_date,grade
+S032,Hina Malik,hina32@example.com,03832139664,D3,Information Technology,C2,Data Structures,3,I1,Dr. Khan,Spring-2025,2026-12-18,F
+S040,Hina Chaudhry,hina40@example.com,03123073281,D2,Software Engineering,C5,Networks,3,I3,Dr. Ahmed,Spring-2026,2026-08-28,D
+S009,Huzaifa Raza,huzaifa9@example.com,03687784453,D4,Business,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2025-09-14,A-
+S010,Ayesha Sheikh,ayesha10@example.com,03641060996,D1,Computer Science,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2025-08-28,B
+S001,Huzaifa Iqbal,huzaifa1@example.com,03474270375,D2,Software Engineering,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2026-07-15,B
+S048,Usman Chaudhry,usman48@example.com,03916556463,D3,Information Technology,C3,Software Design,3,I2,Dr. Ali,Spring-2025,2026-02-22,A-
+S035,Ayesha Sheikh,ayesha35@example.com,03212827500,D5,Mathematics,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2026-10-20,C+
+S002,Fatima Malik,fatima2@example.com,03337202711,D1,Computer Science,C2,Data Structures,3,I1,Dr. Khan,Spring-2025,2026-04-11,A-
+S027,Ahmed Malik,ahmed27@example.com,03875588826,D2,Software Engineering,C9,Linear Algebra,3,I5,Dr. Ayesha,Fall-2025,2025-02-19,A-
+S009,Huzaifa Raza,huzaifa9@example.com,03687784453,D4,Business,C6,Cyber Security,3,I3,Dr. Ahmed,Spring-2026,2025-09-06,C+
+S010,Ayesha Sheikh,ayesha10@example.com,03641060996,D1,Computer Science,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2025-11-18,F
+S033,Huzaifa Mirza,huzaifa33@example.com,03250281693,D2,Software Engineering,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2025-08-13,B+
+S025,Fatima Aslam,fatima25@example.com,03239364623,D4,Business,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2025-06-29,B-
+S014,Fatima Shah,fatima14@example.com,03965213049,D3,Information Technology,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2026-10-24,C
+S050,Usman Shah,usman50@example.com,03145590572,D5,Mathematics,C2,Data Structures,3,I1,Dr. Khan,Fall-2025,2026-08-25,B-
+S024,Usman Malik,usman24@example.com,03467724127,D4,Business,C2,Data Structures,3,I1,Dr. Khan,Fall-2025,2025-07-08,C+
+S031,Huzaifa Butt,huzaifa31@example.com,03974726480,D3,Information Technology,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2026-02-28,B-
+S037,Ayesha Iqbal,ayesha37@example.com,03979970417,D3,Information Technology,C2,Data Structures,3,I1,Dr. Khan,Fall-2025,2025-10-16,C+
+S055,Ahmed Khan,ahmed55@example.com,03734865371,D4,Business,C6,Cyber Security,3,I3,Dr. Ahmed,Fall-2025,2026-01-02,B+
+S056,Ali Shah,ali56@example.com,03547111783,D5,Mathematics,C5,Networks,3,I3,Dr. Ahmed,Fall-2025,2025-03-29,C
+S028,Hina Raza,hina28@example.com,03362387915,D1,Computer Science,C3,Software Design,3,I2,Dr. Ali,Spring-2025,2025-11-13,B-
+S055,Ahmed Khan,ahmed55@example.com,03734865371,D4,Business,C6,Cyber Security,3,I3,Dr. Ahmed,Spring-2025,2025-02-10,C+
+S002,Fatima Malik,fatima2@example.com,03337202711,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2025-04-25,F
+S053,Sana Mirza,sana53@example.com,03899300644,D3,Information Technology,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2025-08-05,B-
+S034,Huzaifa Raza,huzaifa34@example.com,03973167147,D4,Business,C5,Networks,3,I3,Dr. Ahmed,Spring-2026,2026-12-09,B
+S031,Huzaifa Butt,huzaifa31@example.com,03974726480,D3,Information Technology,C2,Data Structures,3,I1,Dr. Khan,Spring-2025,2026-07-22,C
+S029,Zain Sheikh,zain29@example.com,03292082689,D3,Information Technology,C8,Marketing,3,I4,Dr. Sana,Spring-2025,2025-11-14,B-
+S044,Huzaifa Butt,huzaifa44@example.com,03496009502,D1,Computer Science,C5,Networks,3,I3,Dr. Ahmed,Fall-2025,2025-08-31,B
+S040,Hina Chaudhry,hina40@example.com,03123073281,D2,Software Engineering,C2,Data Structures,3,I1,Dr. Khan,Spring-2026,2025-09-16,A-
+S034,Huzaifa Raza,huzaifa34@example.com,03973167147,D4,Business,C4,Web Engineering,3,I2,Dr. Ali,Spring-2025,2026-03-28,B+
+S039,Ahmed Malik,ahmed39@example.com,03987521929,D4,Business,C8,Marketing,3,I4,Dr. Sana,Spring-2026,2026-07-15,B-
+S022,Hassan Butt,hassan22@example.com,03918604552,D3,Information Technology,C8,Marketing,3,I4,Dr. Sana,Spring-2026,2025-09-09,B+
+S024,Usman Malik,usman24@example.com,03467724127,D4,Business,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2026-08-16,A-
+S003,Zain Butt,zain3@example.com,03918496161,D4,Business,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2026-10-08,B
+S007,Sana Shah,sana7@example.com,03892854044,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2026-07-20,F
+S003,Zain Butt,zain3@example.com,03918496161,D4,Business,C5,Networks,3,I3,Dr. Ahmed,Spring-2026,2025-07-28,B+
+S043,Ali Khan,ali43@example.com,03348389223,D1,Computer Science,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2026-06-08,B
+S028,Hina Raza,hina28@example.com,03362387915,D1,Computer Science,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2026-01-06,B
+S043,Ali Khan,ali43@example.com,03348389223,D1,Computer Science,C2,Data Structures,3,I1,Dr. Khan,Fall-2025,2026-07-16,A
+S037,Ayesha Iqbal,ayesha37@example.com,03979970417,D3,Information Technology,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2025-05-03,A-
+S050,Usman Shah,usman50@example.com,03145590572,D5,Mathematics,C4,Web Engineering,3,I2,Dr. Ali,Fall-2025,2026-07-04,F
+S027,Ahmed Malik,ahmed27@example.com,03875588826,D2,Software Engineering,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2025-02-26,D
+S007,Sana Shah,sana7@example.com,03892854044,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2025-10-26,F
+S040,Hina Chaudhry,hina40@example.com,03123073281,D2,Software Engineering,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2026-01-12,A-
+S055,Ahmed Khan,ahmed55@example.com,03734865371,D4,Business,C2,Data Structures,3,I1,Dr. Khan,Spring-2025,2026-07-08,D
+S046,Hassan Iqbal,hassan46@example.com,03466632954,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2026-04-22,B+
+S032,Hina Malik,hina32@example.com,03832139664,D3,Information Technology,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2025-11-12,A
+S031,Huzaifa Butt,huzaifa31@example.com,03974726480,D3,Information Technology,C5,Networks,3,I3,Dr. Ahmed,Spring-2025,2026-01-09,B-
+S023,Huzaifa Raza,huzaifa23@example.com,03819273286,D5,Mathematics,C8,Marketing,3,I4,Dr. Sana,Spring-2026,2026-08-21,F
+S010,Ayesha Sheikh,ayesha10@example.com,03641060996,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2025-05-29,C
+S003,Zain Butt,zain3@example.com,03918496161,D4,Business,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2026-08-25,C+
+S034,Huzaifa Raza,huzaifa34@example.com,03973167147,D4,Business,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2025-10-24,B
+S060,Zain Khan,zain60@example.com,03494075590,D5,Mathematics,C9,Linear Algebra,3,I5,Dr. Ayesha,Fall-2025,2026-08-13,D
+S035,Ayesha Sheikh,ayesha35@example.com,03212827500,D5,Mathematics,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2026-11-26,C
+S040,Hina Chaudhry,hina40@example.com,03123073281,D2,Software Engineering,C5,Networks,3,I3,Dr. Ahmed,Spring-2025,2025-05-11,D
+S016,Usman Chaudhry,usman16@example.com,03968810139,D3,Information Technology,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2026-02-05,A
+S028,Hina Raza,hina28@example.com,03362387915,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2026-03-23,C
+S006,Hassan Sheikh,hassan6@example.com,03450703502,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2026-03-28,F
+S034,Huzaifa Raza,huzaifa34@example.com,03973167147,D4,Business,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2025-03-31,A
+S051,Fatima Butt,fatima51@example.com,03712111723,D5,Mathematics,C6,Cyber Security,3,I3,Dr. Ahmed,Fall-2025,2026-01-28,C
+S014,Fatima Shah,fatima14@example.com,03965213049,D3,Information Technology,C5,Networks,3,I3,Dr. Ahmed,Spring-2025,2025-06-16,A-
+S051,Fatima Butt,fatima51@example.com,03712111723,D5,Mathematics,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2026-01-03,B-
+S058,Fatima Butt,fatima58@example.com,03264498065,D2,Software Engineering,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2026-09-10,B
+S015,Huzaifa Aslam,huzaifa15@example.com,03121481051,D5,Mathematics,C2,Data Structures,3,I1,Dr. Khan,Fall-2025,2026-04-06,B+
+S011,Hassan Malik,hassan11@example.com,03284848206,D3,Information Technology,C5,Networks,3,I3,Dr. Ahmed,Spring-2025,2026-07-28,B-
+S037,Ayesha Iqbal,ayesha37@example.com,03979970417,D3,Information Technology,C6,Cyber Security,3,I3,Dr. Ahmed,Spring-2025,2026-01-09,B
+S054,Sana Aslam,sana54@example.com,03699562743,D3,Information Technology,C2,Data Structures,3,I1,Dr. Khan,Spring-2026,2025-10-06,B+
+S023,Huzaifa Raza,huzaifa23@example.com,03819273286,D5,Mathematics,C3,Software Design,3,I2,Dr. Ali,Spring-2025,2026-08-26,B+
+S004,Zain Aslam,zain4@example.com,03956154845,D1,Computer Science,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2026-05-03,C
+S048,Usman Chaudhry,usman48@example.com,03916556463,D3,Information Technology,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2025-10-23,D
+S057,Usman Chaudhry,usman57@example.com,03357451474,D1,Computer Science,C10,Statistics,3,I5,Dr. Ayesha,Spring-2026,2026-05-27,D
+S034,Huzaifa Raza,huzaifa34@example.com,03973167147,D4,Business,C5,Networks,3,I3,Dr. Ahmed,Fall-2025,2025-06-24,C+
+S010,Ayesha Sheikh,ayesha10@example.com,03641060996,D1,Computer Science,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2026-12-28,C+
+S014,Fatima Shah,fatima14@example.com,03965213049,D3,Information Technology,C2,Data Structures,3,I1,Dr. Khan,Spring-2025,2025-07-31,C+
+S019,Zain Shah,zain19@example.com,03333356626,D3,Information Technology,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2025-04-29,B
+S010,Ayesha Sheikh,ayesha10@example.com,03641060996,D1,Computer Science,C5,Networks,3,I3,Dr. Ahmed,Spring-2026,2025-07-13,F
+S032,Hina Malik,hina32@example.com,03832139664,D3,Information Technology,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2025-11-25,F
+S054,Sana Aslam,sana54@example.com,03699562743,D3,Information Technology,C9,Linear Algebra,3,I5,Dr. Ayesha,Fall-2025,2025-04-02,A-
+S015,Huzaifa Aslam,huzaifa15@example.com,03121481051,D5,Mathematics,C7,Accounting Basics,3,I4,Dr. Sana,Fall-2025,2025-04-27,B-
+S050,Usman Shah,usman50@example.com,03145590572,D5,Mathematics,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2026-03-16,B-
+S045,Ayesha Sheikh,ayesha45@example.com,03299791343,D4,Business,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2025-01-11,F
+S002,Fatima Malik,fatima2@example.com,03337202711,D1,Computer Science,C8,Marketing,3,I4,Dr. Sana,Spring-2026,2025-09-30,C
+S044,Huzaifa Butt,huzaifa44@example.com,03496009502,D1,Computer Science,C5,Networks,3,I3,Dr. Ahmed,Spring-2025,2025-05-15,A
+S052,Ayesha Iqbal,ayesha52@example.com,03013046048,D1,Computer Science,C7,Accounting Basics,3,I4,Dr. Sana,Fall-2025,2025-02-05,B+
+S039,Ahmed Malik,ahmed39@example.com,03987521929,D4,Business,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2025-10-09,D
+S057,Usman Chaudhry,usman57@example.com,03357451474,D1,Computer Science,C2,Data Structures,3,I1,Dr. Khan,Fall-2025,2025-08-03,B
+S008,Hassan Chaudhry,hassan8@example.com,03394339292,D3,Information Technology,C9,Linear Algebra,3,I5,Dr. Ayesha,Fall-2025,2025-07-06,B
+S047,Huzaifa Mirza,huzaifa47@example.com,03552615741,D2,Software Engineering,C8,Marketing,3,I4,Dr. Sana,Spring-2025,2026-05-03,B-
+S014,Fatima Shah,fatima14@example.com,03965213049,D3,Information Technology,C7,Accounting Basics,3,I4,Dr. Sana,Spring-2025,2025-06-14,C+
+S012,Hina Khan,hina12@example.com,03737991658,D5,Mathematics,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2026-07-04,C+
+S051,Fatima Butt,fatima51@example.com,03712111723,D5,Mathematics,C8,Marketing,3,I4,Dr. Sana,Spring-2025,2026-08-14,D
+S026,Hassan Iqbal,hassan26@example.com,03143198819,D3,Information Technology,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2025-12-09,F
+S006,Hassan Sheikh,hassan6@example.com,03450703502,D1,Computer Science,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2026-11-14,B-
+S015,Huzaifa Aslam,huzaifa15@example.com,03121481051,D5,Mathematics,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2026,2026-11-02,C
+S023,Huzaifa Raza,huzaifa23@example.com,03819273286,D5,Mathematics,C8,Marketing,3,I4,Dr. Sana,Spring-2026,2026-09-24,A-
+S043,Ali Khan,ali43@example.com,03348389223,D1,Computer Science,C3,Software Design,3,I2,Dr. Ali,Spring-2025,2025-03-27,A
+S052,Ayesha Iqbal,ayesha52@example.com,03013046048,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2026,2025-05-09,D
+S015,Huzaifa Aslam,huzaifa15@example.com,03121481051,D5,Mathematics,C4,Web Engineering,3,I2,Dr. Ali,Fall-2025,2025-09-28,B-
+S018,Ali Mirza,ali18@example.com,03121525976,D5,Mathematics,C2,Data Structures,3,I1,Dr. Khan,Spring-2026,2025-01-09,B+
+S031,Huzaifa Butt,huzaifa31@example.com,03974726480,D3,Information Technology,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2025-02-25,B+
+S046,Hassan Iqbal,hassan46@example.com,03466632954,D1,Computer Science,C7,Accounting Basics,3,I4,Dr. Sana,Fall-2025,2026-02-07,B
+S001,Huzaifa Iqbal,huzaifa1@example.com,03474270375,D2,Software Engineering,C10,Statistics,3,I5,Dr. Ayesha,Spring-2026,2025-01-29,C
+S035,Ayesha Sheikh,ayesha35@example.com,03212827500,D5,Mathematics,C6,Cyber Security,3,I3,Dr. Ahmed,Fall-2025,2025-10-01,A
+S048,Usman Chaudhry,usman48@example.com,03916556463,D3,Information Technology,C9,Linear Algebra,3,I5,Dr. Ayesha,Fall-2025,2026-01-14,A-
+S006,Hassan Sheikh,hassan6@example.com,03450703502,D1,Computer Science,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2026-06-10,B-
+S013,Fatima Khan,fatima13@example.com,03970278959,D4,Business,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2025-03-19,C+
+S040,Hina Chaudhry,hina40@example.com,03123073281,D2,Software Engineering,C10,Statistics,3,I5,Dr. Ayesha,Spring-2026,2025-01-06,C
+S007,Sana Shah,sana7@example.com,03892854044,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2026-07-12,D
+S028,Hina Raza,hina28@example.com,03362387915,D1,Computer Science,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2025-01-18,B-
+S037,Ayesha Iqbal,ayesha37@example.com,03979970417,D3,Information Technology,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2026-12-21,B-
+S035,Ayesha Sheikh,ayesha35@example.com,03212827500,D5,Mathematics,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2026-06-10,A-
+S052,Ayesha Iqbal,ayesha52@example.com,03013046048,D1,Computer Science,C2,Data Structures,3,I1,Dr. Khan,Spring-2026,2026-04-30,A-
+S031,Huzaifa Butt,huzaifa31@example.com,03974726480,D3,Information Technology,C5,Networks,3,I3,Dr. Ahmed,Fall-2025,2026-07-11,B
+S012,Hina Khan,hina12@example.com,03737991658,D5,Mathematics,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2026-12-19,C
+S057,Usman Chaudhry,usman57@example.com,03357451474,D1,Computer Science,C6,Cyber Security,3,I3,Dr. Ahmed,Spring-2025,2025-06-09,D
+S048,Usman Chaudhry,usman48@example.com,03916556463,D3,Information Technology,C7,Accounting Basics,3,I4,Dr. Sana,Fall-2025,2026-03-03,A
+S050,Usman Shah,usman50@example.com,03145590572,D5,Mathematics,C8,Marketing,3,I4,Dr. Sana,Spring-2025,2026-08-03,B
+S004,Zain Aslam,zain4@example.com,03956154845,D1,Computer Science,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2026-07-14,C+
+S055,Ahmed Khan,ahmed55@example.com,03734865371,D4,Business,C3,Software Design,3,I2,Dr. Ali,Spring-2025,2026-09-09,A-
+S014,Fatima Shah,fatima14@example.com,03965213049,D3,Information Technology,C7,Accounting Basics,3,I4,Dr. Sana,Fall-2025,2025-06-28,C+
+S009,Huzaifa Raza,huzaifa9@example.com,03687784453,D4,Business,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2025-02-05,D
+S021,Ahmed Sheikh,ahmed21@example.com,03015509884,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Fall-2025,2026-05-16,C+
+S009,Huzaifa Raza,huzaifa9@example.com,03687784453,D4,Business,C8,Marketing,3,I4,Dr. Sana,Spring-2025,2026-12-16,B+
+S004,Zain Aslam,zain4@example.com,03956154845,D1,Computer Science,C4,Web Engineering,3,I2,Dr. Ali,Spring-2026,2025-10-08,A-
+S034,Huzaifa Raza,huzaifa34@example.com,03973167147,D4,Business,C8,Marketing,3,I4,Dr. Sana,Fall-2025,2026-07-02,D
+S052,Ayesha Iqbal,ayesha52@example.com,03013046048,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2025-04-04,C
+S016,Usman Chaudhry,usman16@example.com,03968810139,D3,Information Technology,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2026-04-30,B+
+S020,Hina Butt,hina20@example.com,03845689159,D4,Business,C7,Accounting Basics,3,I4,Dr. Sana,Fall-2025,2026-04-12,A-
+S042,Sana Aslam,sana42@example.com,03223057323,D2,Software Engineering,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2025-06-05,B-
+S042,Sana Aslam,sana42@example.com,03223057323,D2,Software Engineering,C2,Data Structures,3,I1,Dr. Khan,Spring-2026,2026-09-24,B+
+S005,Ahmed Malik,ahmed5@example.com,03796308779,D5,Mathematics,C8,Marketing,3,I4,Dr. Sana,Spring-2026,2026-03-26,B-
+S052,Ayesha Iqbal,ayesha52@example.com,03013046048,D1,Computer Science,C4,Web Engineering,3,I2,Dr. Ali,Fall-2025,2026-03-24,B
+S043,Ali Khan,ali43@example.com,03348389223,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2026-08-31,C
+S054,Sana Aslam,sana54@example.com,03699562743,D3,Information Technology,C5,Networks,3,I3,Dr. Ahmed,Spring-2026,2026-05-22,F
+S038,Ali Butt,ali38@example.com,03342046332,D1,Computer Science,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2025-11-13,A-
+S036,Usman Shah,usman36@example.com,03937128085,D4,Business,C2,Data Structures,3,I1,Dr. Khan,Spring-2026,2026-09-16,C+
+S055,Ahmed Khan,ahmed55@example.com,03734865371,D4,Business,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2025-06-07,F
+S007,Sana Shah,sana7@example.com,03892854044,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2025,2026-07-17,B
+S040,Hina Chaudhry,hina40@example.com,03123073281,D2,Software Engineering,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2025-04-18,B
+S047,Huzaifa Mirza,huzaifa47@example.com,03552615741,D2,Software Engineering,C1,Database Systems,3,I1,Dr. Khan,Spring-2026,2025-09-09,F
+S028,Hina Raza,hina28@example.com,03362387915,D1,Computer Science,C5,Networks,3,I3,Dr. Ahmed,Spring-2025,2026-01-02,C
+S015,Huzaifa Aslam,huzaifa15@example.com,03121481051,D5,Mathematics,C7,Accounting Basics,3,I4,Dr. Sana,Spring-2026,2026-02-22,C
+S046,Hassan Iqbal,hassan46@example.com,03466632954,D1,Computer Science,C10,Statistics,3,I5,Dr. Ayesha,Spring-2025,2025-08-11,C
+S036,Usman Shah,usman36@example.com,03937128085,D4,Business,C1,Database Systems,3,I1,Dr. Khan,Spring-2025,2026-10-25,B-
+S031,Huzaifa Butt,huzaifa31@example.com,03974726480,D3,Information Technology,C4,Web Engineering,3,I2,Dr. Ali,Fall-2025,2026-02-20,B
+S047,Huzaifa Mirza,huzaifa47@example.com,03552615741,D2,Software Engineering,C3,Software Design,3,I2,Dr. Ali,Spring-2026,2026-10-22,B
+S032,Hina Malik,hina32@example.com,03832139664,D3,Information Technology,C1,Database Systems,3,I1,Dr. Khan,Fall-2025,2026-06-10,B
+S004,Zain Aslam,zain4@example.com,03956154845,D1,Computer Science,C3,Software Design,3,I2,Dr. Ali,Fall-2025,2026-09-29,C+
+S021,Ahmed Sheikh,ahmed21@example.com,03015509884,D1,Computer Science,C3,Software Design,3,I2,Dr. Ali,Spring-2025,2026-02-12,A-
+S021,Ahmed Sheikh,ahmed21@example.com,03015509884,D1,Computer Science,C9,Linear Algebra,3,I5,Dr. Ayesha,Spring-2026,2025-06-06,C
